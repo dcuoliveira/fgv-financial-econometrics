@@ -1,9 +1,9 @@
 # FGV_Financial_Econometrics
 
-This repository will be used to organize all the codes and notes written on the Empirical asset pricing course given at the school of economics at FGV-SP on 2020 by prof. Marcelo Fernandes.
+This repository will be used to organize all the codes and notes written on the Financial econometrics course given at the school of economics at FGV-SP on 2020 by prof. Pedro Valls.
 
 ## References
 
-Bali, T., Engle, R. and Murray, S. (2017). Empirical Asset Pricing: The Cross Section of Stock Returns: An Overview. In Wiley StatsRef: Statistics Reference Online.
+Brooks, Chris (2019) Introductory Econometrics for Finance, 4ª Ed. Cambridge University Press.
 
-Campbell, John Y., Andrew W. Lo, and Archie Craig MacKinlay. 1997. The econometrics of financial markets. Princeton, N.J.: Princeton University Press.
+Morettin, Pedro A. (2017) Econometria Financeira: um curso em séries temporais financeiras, 3 edição, Blucher.
