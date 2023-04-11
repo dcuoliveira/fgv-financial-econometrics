@@ -1,4 +1,4 @@
-# FGV_Financial_Econometrics
+# fgv-financial-econometrics
 
 This repository will be used to organize all the codes and notes written on the Financial econometrics course given at the school of economics at FGV-SP on 2020 by prof. Pedro Valls.
 
